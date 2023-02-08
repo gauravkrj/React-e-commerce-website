@@ -1,0 +1,35 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: #243733;
+    height:100vh;
+}
+
+
+.checkout_left{
+    width: 50%;
+
+}
+
+.checkout_left h3{
+    padding: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.checkout__banner{
+    width: 100%;
+    height: 60%;
+}
+
+.checkouttitle{
+    margin-right: 10px;
+    padding: 10px;
+    color: white;
+    border-bottom: 1px solid lightgray;
+}
+
+.checkout_right{
+    width: 50%;
+
+}
